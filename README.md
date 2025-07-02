@@ -2,7 +2,7 @@
 Welcome to my GitHub! I am a passionate and growing **tech professional** with a background in **education**, **community outreach**, and **frontend web development**.
 
 - :seedling: Currently training at *La Fosse Academy
-- :brain: Learning full-stack development, with a focus on **HTML**, **CSS**, **JavaScript**, and *React
+- :brain: Learning full-stack development, with a focus on **HTML**, **CSS**, **JavaScript**, and **React**
 - 👩‍🏫 I also teach others through volunteering and mentoring
 - :sparkles: I care deeply about creating inclusive, accessible, and user-friendly digital experiences
 - :briefcase: Exploring roles in tech that align with my professional ethos and people-first mindset
