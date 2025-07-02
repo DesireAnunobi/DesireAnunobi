@@ -17,9 +17,13 @@ Welcome to my GitHub! I am a passionate and growing **tech professional** with a
 ---
 ## :rocket: Projects
 Here are a few highlights. More to come!
+
 [:art: My Personal Website](https://desireanunobi.github.io/my-personal-website/)
+
 [:briefcase: Portfolio Repo](https://github.com/desireanunobi/my-personal-website)
+
 [:test_tube: Practice Projects](https://github.com/desireanunobi?tab=repositories)
+
 ---
 ## :loudspeaker: Let's Connect
 [LinkedIn](https://www.linkedin.com/in/desire-anunobi/)
