@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a passionate and growing **tech professional** with a
 - :sparkles: I care deeply about creating inclusive, accessible, and user-friendly digital experiences
 - :briefcase: Exploring roles in tech that align with my professional ethos and people-first mindset
 ---
-## :hammer_and_spanner: Tech Stack
+## 🛠️ Tech Stack
 - HTML5 / CSS3 / JavaScript
 - Git / GitHub
 - VS Code
